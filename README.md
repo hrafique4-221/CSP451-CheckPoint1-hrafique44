@@ -9,7 +9,7 @@ It contains a simple starter project with HTML, CSS, and JavaScript files, along
 ## Installation Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hrafique4/CSP451-CheckPoint1-hrafique4.git
+  git clone https://github.com/hrafique4-221/CSP451-CheckPoint1-hrafique44.git
    cd CSP451-CheckPoint1-hrafique4
 ---
 
