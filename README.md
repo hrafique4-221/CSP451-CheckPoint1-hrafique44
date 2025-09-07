@@ -1,4 +1,4 @@
-# CSP451 CheckPoint 1 — Hamzah C
+# CSP451 CheckPoint 1 — Hamzah R
 
 ##  Project Description
 This repository is for CSP451 CheckPoint 1, demonstrating the fundamentals of Git, GitHub, and version control workflows.  
