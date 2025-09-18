@@ -1,0 +1,7 @@
+# REST API Feature
+- `api.py` provides API endpoints for user data
+- Endpoints:
+    - `GET /api/users` → List all users
+    - `GET /api/users/<id>` → Get a specific user by ID
+- Ready for future integration with frontend or database
+
