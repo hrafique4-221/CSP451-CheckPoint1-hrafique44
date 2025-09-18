@@ -1,0 +1,7 @@
+
+
+#HAMZAH
+# User Authentication Feature
+- Added login form (`login.html`)
+- Implemented Flask backend authentication (`auth.py`)
+- Supports in-memory username/password validation
