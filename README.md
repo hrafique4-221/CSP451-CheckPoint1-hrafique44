@@ -11,5 +11,11 @@ It contains a simple starter project with HTML, CSS, and JavaScript files, along
    ```bash
    git clone https://github.com/hrafique4-221/CSP451-CheckPoint1-hrafique44.git
    cd CSP451-CheckPoint1-hrafique44
+feature/database-connection
 dd feature/database-connection
 Hi my name is sunny basion and i am helping hamzah with checkpoint 2 conflict resolution
+
+feature/api-endpoints
+
+
+main
